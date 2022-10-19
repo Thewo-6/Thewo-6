@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Thewo-6
+- 👋 Hi, I’m @Max
 - 👀 I’m interested in coding especially software developing
 - 🌱 I’m currently learning Computer Science
 - 💞️ I’m looking to collaborate on C/C++ projects
